@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DynamicFormModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ToolModels
+  >
+    <ToolModel TextButton="run">
+      <ActionButton>notepad.exe</ActionButton>
+    </ToolModel>
+    <ToolModel TextButton="navigate">
+      <ActionButton>www.google.com</ActionButton>
+    </ToolModel>
+  </ToolModels>
+</DynamicFormModel>
