@@ -10,7 +10,7 @@ namespace ToolsManagerTest
         [TestMethod]
         public void SaveDummyModel()
         {
-            //given +
+            //given --
             DynamicFormModel dynamicModel = new DynamicFormModel();
             ToolModel toolModelNotePad = new ToolModel(textButton:"run", actionButton: "notepad.exe");
             ToolModel toolModelBrowser = new ToolModel(textButton: "navigate", actionButton: "www.google.com");
