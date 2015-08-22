@@ -14,6 +14,7 @@ namespace ToolsManager
         [STAThread]
         static void Main()
         {
+            //modificado por maxneo
             //comment
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
